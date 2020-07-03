@@ -18,7 +18,7 @@ organizations:
   url: https://www.iag.usp.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Meteorologist interested in tuhnderstorms formation and life cycle in Brazil.
+bio: Meteorologist interested in thunderstorms formation and life cycle in Brazil.
 
 interests:
 - Cloud Microphysics
