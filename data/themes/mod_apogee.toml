@@ -5,13 +5,13 @@ name = "mod_apogee"
 light = false
 
 # Primary
-primary = "#EAF04E"
+primary = "#D756F0"
 
 # Menu
-menu_primary = "#312450"
-menu_text = "#F2BE4E"
-menu_text_active = "#FFE1A0"
-menu_title = "#E0A526"
+menu_primary = "#302456"
+menu_text = "#B26DEE"
+menu_text_active = "#F7A0F8"
+menu_title = "#708DFF"
 
 # Home sections
 home_section_odd = "#18122B"
