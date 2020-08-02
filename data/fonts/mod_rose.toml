@@ -1,0 +1,11 @@
+# Font style metadata
+name = "mod_rose"
+
+# Optional Google font URL
+google_fonts = "Arvo:400|Open+Sans:400|Roboto+Mono"
+
+# Font families
+heading_font = "Arvo"
+body_font = "Open Sans"
+nav_font = "Arvo"
+mono_font = "Roboto Mono"

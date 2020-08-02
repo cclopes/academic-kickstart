@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Microfísica, Cinemática e Eletrificação em Tempestades Tropicais que geraram Granizo durante o Projeto SOS-CHUVA"
+title: "Microphysics, Kinematics and Electrification in Hail Producing Tropical Storms during SOS-CHUVA Project"
 authors: ["Lopes, C. C."]
 date: 2019-03-15T14:00:00-03:00
 doi: ""

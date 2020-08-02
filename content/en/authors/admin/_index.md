@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Camila da Cunha Lopes
+title: Camila Lopes
 
 # Username (this should match the folder name)
 authors:
