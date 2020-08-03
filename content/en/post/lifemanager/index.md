@@ -8,7 +8,7 @@ authors: [Camila Lopes]
 tags: ["Research", "Productivity"]
 categories: ["Posts"]
 date: 2020-08-02T11:00:00-03:00
-lastmod: 2020-08-02T11:00:00-03:00
+lastmod: 2020-08-02T19:00:00-03:00
 featured: false
 draft: false
 
