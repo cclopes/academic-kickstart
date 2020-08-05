@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deep Convection Invigoration in Amazonia: Observations and Comparison with Satellite Estimates"
+title: "Envigoração da Convecção Profunda na Amazônia: Observações e Comparação com Estimativas por Satélite"
 event: "IV IAG Science Day"
 event_url: https://www.iag.usp.br/scienceday
 location: "IAG-USP, São Paulo, Brasil"
@@ -18,7 +18,7 @@ all_day: false
 publishDate: 2019-06-04T11:47:45-03:00
 
 authors: ["Lopes, C. C., Albrecht, R. I."]
-tags: ["Research", "PhD"]
+tags: ["Pesquisa", "Doutorado"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -27,7 +27,7 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Science Day Poster"
+  caption: "Poster do Science Day"
   focal_point: "Smart"
   preview_only: false
 

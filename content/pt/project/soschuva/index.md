@@ -5,8 +5,8 @@ title: "SOS-CHUVA"
 subtitle: ""
 summary: ""
 authors: []
-tags: ["SOS-CHUVA", "Research"]
-categories: ["Projects"]
+tags: ["SOS-CHUVA", "Pesquisa"]
+categories: ["Projetos"]
 date: 2019-06-02T22:02:04-03:00
 lastmod: 2019-06-02T22:02:04-03:00
 featured: false
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "SOS-CHUVA Logo"
+  caption: "Logo do SOS-CHUVA"
   focal_point: "Smart"
   preview_only: false
 
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-The [SOS-CHUVA](http://soschuva.cptec.inpe.br/soschuva/) project developed research in thunderstorm nowcasting in the Metropolitan Region of Campinas based on acquired knowledge during [CHUVA Project](http://chuvaproject.cptec.inpe.br/portal/noticia.ultimas.logic). I help to coordinate a hail detection network installed for the first time in the region. Download the [app](http://satelite.cptec.inpe.br/soschuvaapp/) to monitore thunderstorms in real-time with weather radars, satellite and lightning detection networks.
+O projeto [SOS-CHUVA](http://soschuva.cptec.inpe.br/soschuva/) desenvolveu pesquisa em previsão de curtíssimo prazo de tempestades na Região Metropolitana de Campinas baseado no conhecimento adquirido durante o [Projeto CHUVA](http://chuvaproject.cptec.inpe.br/portal/noticia.ultimas.logic). Ajudei a coordenar uma rede de detecção de granizo instalada pela primeira vez na região. Faça o download do [app](http://satelite.cptec.inpe.br/soschuvaapp/) para monitorar tempestades em tempo real com radares meteorológicos, satélite e redes de detecção de raios.

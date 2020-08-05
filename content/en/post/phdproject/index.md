@@ -37,20 +37,15 @@ In this post, I will describe two of these resources and how they helped me to c
 #### Using a mind map
 Mind maps are great tools to organize chains of ideas. They come in different shapes and colors, but they are constructed in the same way: connecting topics. They can be done by hand (post-its are perfect for that!) or using several kinds of softwares in PC/smartphones/tablets.
 
-Since I like to use my iPad for taking notes, I decided to use an app with a PC webpage available aswell. After a lot of tests, I choosed [MindMeister](https://www.mindmeister.com/). The free version can have some constraints, but I could accomplish what I wanted without many problems.
+Since I like to use my iPad for taking notes, I decided to use an app with a PC webpage available aswell. After a lot of tests, I choosed [Miro](https://miro.com/) because of their [free education plan](https://help.miro.com/hc/en-us/articles/360017730473-Education-Plan) with unlimited boards and several templates, incuding mind maps.
 
 The idea for the mind map related to my research project (linked below) was to outline topics and important information of a long review paper ([Altaratz et al., 2014](https://www.sciencedirect.com/science/article/pii/S0169809514000106?via%3Dihub)) about a interesting subject for me that turned out to be the basis of my project. I defined the main topic as "Deep Convection in Amazônia" and went from the "big picture" to the "small picture". It took some time, but doing this really helped to better understand the topic and ultimately find the gap (connect observations with remote sensing studies in the region) that I could explore in my thesis. The final result was a big and detailed mind map that I will always use as a reference when I feel lost.
 
-<iframe width="720" height="500" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1309739416/deep-convection-in-amazonia?width=750&height=500&z=0.6" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Seu navegador não pode exibir frames. Por favor, acesse <a href="https://www.mindmeister.com/1309739416/deep-convection-in-amazonia" target="_blank">Deep Convection in Amazonia</a> no MindMeister.</iframe>
+<iframe width="720" height="500" frameborder="0" src="https://miro.com/app/embed/o9J_kodfeOU=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 #### Writing the project using an outline
-Having a gap to explore, the next step was to write the project. Something that really accelerated the writing process was to outline the whole document. This "technique" is basically define what you are going to write in each section (introduction, database, etc), subsection and even paragraph. Part of the outline I did is showed on Figure 1 (in portuguese).
+Having a gap to explore, the next step was to write the project. Something that really accelerated the writing process was to outline the whole document. This "technique" is basically define what you are going to write in each section (introduction, database, etc), subsection and even paragraph. Part of the outline I did (exported from [Notion]({{< ref "/post/lifemanager/index.md" >}})) is showed below (in portuguese).
 
 As soon as I had the idea for the project, I wrote an outline describing **what** I wanted to do and **how** I wanted to do. I was so excited with the "full version" of the outline that I immediately sent to my advisor to show my idea and ask her feedback, which she gave not long after that. After a week or so, my project was done!
 
-##### *Hello OneNote, my old friend*
-For a few years I've been using a tablet as a "secondary notebook" to take notes and read papers. After a much needed upgrade to an iPad, I could find a good notebook app that integrated handwritten and typed notes. After deep frustations with the free version of Evernote I decided to use [Microsoft OneNote](https://products.office.com/onenote/digital-note-taking-app), and it was such an amazing choice! This app (and program in PC version) really integrates texts, figures and drawings, can separate notes in several levels and just improved so much over the years.
-
-In my main notebook I have class annotations, seminar notes, ideas I had during the research, and the outline of my PhD project!
-
-{{< figure src="onenote_print.PNG" title="My OneNote notebook print, showing the main sections and subsections. The outline page is highlighted." numbered="true" lightbox="true" >}}
+{{< figure src="notion_pdf.PNG" title="My exported Notion page with part of the outline." numbered="false" lightbox="true" >}}

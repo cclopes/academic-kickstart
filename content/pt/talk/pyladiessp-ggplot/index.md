@@ -18,7 +18,7 @@ all_day: false
 publishDate: 2019-06-04T12:08:44-03:00
 
 authors: ["Lopes, C. C."]
-tags: ["Outreach", "Python"]
+tags: ["Extensão", "Python"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -27,7 +27,7 @@ featured: false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Event Poster"
+  caption: "Poster do Evento"
   focal_point: "Smart"
   preview_only: false
 

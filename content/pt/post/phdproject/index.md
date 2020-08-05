@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Escrevendo o projeto de Doutorado"
-subtitle: "Mapeando a grande figura, achando a lacuna, fazendo o outline."
+subtitle: "Mapeando o 'geral', achando a lacuna, fazendo o outline."
 summary: ""
 authors: [Camila Lopes]
 tags: ["Pesquisa", "Doutorado"]
@@ -28,29 +28,24 @@ image:
 projects: []
 ---
 
-After finishing my Masters dissertation, it took me several (painful) months to define what I was going to do during my PhD. The main idea was to explore a different region of Brazil (Amazônia) and its complex interaction between clouds, aerosols and land use. I tried to gather as much information as I could on the subject, and after a failed attempt with a "bad" project I used some different resources to come up with a better, more defined version. These resources not only helped with the document itself, but improved my knowledge on the subject and made me more confident to successfully defend it in the admission process.
+Depois de terminar minha dissertação de Mestrado, demorei vários (e dolorosos) meses para definir o que iria fazer durante o meu Doutorado. A ideia principal era explorar uma região diferente do Brasil (Amazônia) e sua complexa interação entre nuvens, aerossóis e uso do solo. Tentei reunir o máximo de informação que pude sobre o assunto, e depois de uma tentativa fracassada com um projeto "ruim", usei outros recursos para desenvolver um projeto melhor e mais definido. Esses recursos não só me ajudaram a escrever o documento em si, mas também melhoraram o meu conhecimento do assunto e me deixaram mais confiante para defender o projeto com sucesso no processo de admissão.
 
-In this post, I will describe two of these resources and how they helped me to create the research project.
+Neste post, vou descrever dois desses recursos e como eles me ajudaram a criar o projeto de pesquisa.
 
-*These resources came from tips during a great talk by [Rafael Rosolem](https://www.researchgate.net/profile/Rafael_Rosolem) (former IAG-USP student!) about research skills.*
+*Esses recursos vieram de dicas durante uma ótima palestra do [Rafael Rosolem](https://www.researchgate.net/profile/Rafael_Rosolem) (ex-estudante do IAG-USP!) sobre habilidades de pesquisa.*
 
-#### Using a mind map
-Mind maps are great tools to organize chains of ideas. They come in different shapes and colors, but they are constructed in the same way: connecting topics. They can be done by hand (post-its are perfect for that!) or using several kinds of softwares in PC/smartphones/tablets.
+#### Usando um mapa mental
+Mapas mentais são ótimas ferramentas para organizar cadeias de ideias. Eles podem ser de vários tamanhos e cores, mas são construídos da mesma forma: conectando tópicos. Eles podem ser feitos à mão (post-its são perfeitos para isso!) ou usando vários tipos de softwares no PC/smartphone/tablet.
 
-Since I like to use my iPad for taking notes, I decided to use an app with a PC webpage available aswell. After a lot of tests, I choosed [MindMeister](https://www.mindmeister.com/). The free version can have some constraints, but I could accomplish what I wanted without many problems.
+Como eu gosto de usar o meu iPad para fazer anotações, decidi usar um aplicativo com versão web/desktop disponível também. Depois de vários testes, escolhi o [Miro](https://miro.com/), pois tem um [plano educacional gratuito](https://help.miro.com/hc/en-us/articles/360017730473-Education-Plan) com quadros ilimitados e diversos templates, incluindo um de mapas mentais.
 
-The idea for the mind map related to my research project (linked below) was to outline topics and important information of a long review paper ([Altaratz et al., 2014](https://www.sciencedirect.com/science/article/pii/S0169809514000106?via%3Dihub)) about a interesting subject for me that turned out to be the basis of my project. I defined the main topic as "Deep Convection in Amazônia" and went from the "big picture" to the "small picture". It took some time, but doing this really helped to better understand the topic and ultimately find the gap (connect observations with remote sensing studies in the region) that I could explore in my thesis. The final result was a big and detailed mind map that I will always use as a reference when I feel lost.
+A ideia para o mapa mental relacionado ao meu projeto de pesquisa (link abaixo) foi de delinear tópicos e informações importantes de um longo artigo de revisão ([Altaratz et al., 2014](https://www.sciencedirect.com/science/article/pii/S0169809514000106?via%3Dihub)) sobre um assunto interessante para mim que acabou se tornando a base do meu projeto. Defini o tópico principal como *"Deep Convection in Amazônia"* (Convecção Profunda na Amazônia) e parti do "geral" para o "específico". Demorei algum tempo, mas fazer isso realmente me ajudou a entender melhor o assunto e enfim encontrar a lacuna (conectar observações com sensoriamento remoto na região) que eu pudesse explorar na minha tese. O resultado final foi um grande e detalhado mapa que eu sempre irei usar como referência quando eu me sentir perdida.
 
-<iframe width="720" height="500" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1309739416/deep-convection-in-amazonia?width=750&height=500&z=0.6" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Seu navegador não pode exibir frames. Por favor, acesse <a href="https://www.mindmeister.com/1309739416/deep-convection-in-amazonia" target="_blank">Deep Convection in Amazonia</a> no MindMeister.</iframe>
+<iframe width="720" height="500" frameborder="0" src="https://miro.com/app/embed/o9J_kodfeOU=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-#### Writing the project using an outline
-Having a gap to explore, the next step was to write the project. Something that really accelerated the writing process was to outline the whole document. This "technique" is basically define what you are going to write in each section (introduction, database, etc), subsection and even paragraph. Part of the outline I did is showed on Figure 1 (in portuguese).
+#### Escrevendo o projeto usando um esboço (*outline*)
+Encontrando uma lacuna para explorar, o próximo passo foi escrever o projeto. Uma coisa que realmente ajudou a acelerar o processo de escrita foi delinear todo o documento (elaborar um esboço ou *outline*). Essa "técnica" é basicamente definir o que você vai escrever em cada seção (introdução, base de dados, etc), subseção e até parágrafo. Parte do esboço que eu fiz (exportado do [Notion]({{< ref "/post/lifemanager/index.md" >}})) é mostrado abaixo.
 
-As soon as I had the idea for the project, I wrote an outline describing **what** I wanted to do and **how** I wanted to do. I was so excited with the "full version" of the outline that I immediately sent to my advisor to show my idea and ask her feedback, which she gave not long after that. After a week or so, my project was done!
+Assim que eu defini a ideia para o projeto, escrevi o esboço descrevendo **o que** eu queria fazer e **como** eu queria fazer. Fiquei tão animada com a "versão completa" do esboço que eu mandei para minha orientadora para mostrar a minha ideia e pedir um feedback, que recebi pouco tempo depois. Depois de mais ou menos uma semana, meu projeto estava pronto!
 
-##### *Hello OneNote, my old friend*
-For a few years I've been using a tablet as a "secondary notebook" to take notes and read papers. After a much needed upgrade to an iPad, I could find a good notebook app that integrated handwritten and typed notes. After deep frustations with the free version of Evernote I decided to use [Microsoft OneNote](https://products.office.com/onenote/digital-note-taking-app), and it was such an amazing choice! This app (and program in PC version) really integrates texts, figures and drawings, can separate notes in several levels and just improved so much over the years.
-
-In my main notebook I have class annotations, seminar notes, ideas I had during the research, and the outline of my PhD project!
-
-{{< figure src="onenote_print.PNG" title="My OneNote notebook print, showing the main sections and subsections. The outline page is highlighted." numbered="true" lightbox="true" >}}
+{{< figure src="notion_pdf.PNG" title="Minha página exportada do Notion com parte do esboço." numbered="false" lightbox="true" >}}

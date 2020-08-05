@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Influence of Hail on Severe Storms Electrification"
+title: "A Influência do Granizo na Eletrificação de Tempestades Severas"
 event: "II IAG Science Day"
 event_url: http://www.iag.usp.br/evento/scienceday2017
 location: "IAG-USP, São Paulo, Brasil"
@@ -18,7 +18,7 @@ all_day: false
 publishDate: 2019-06-04T11:47:45-03:00
 
 authors: ["Lopes, C. C., Albrecht, R. I."]
-tags: ["Research", "Masters"]
+tags: ["Pesquisa", "Mestrado"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -27,7 +27,7 @@ featured: false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Science Day Poster"
+  caption: "Poster do Science Day"
   focal_point: "Smart"
   preview_only: false
 

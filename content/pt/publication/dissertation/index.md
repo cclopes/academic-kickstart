@@ -19,13 +19,13 @@ publication_types: ["7"]
 publication: "Universidade de São Paulo"
 publication_short: ""
 
-abstract: " This dissertation analyzed hail producing storms on the Metropolitan Region of Campinas to identify key factors for hailfall occurrence. For the first time, a hail detection network installed in the region allowed the identification and determination of thunderstorm intensity in the 2016-2017 period. The life cycle, microphysical structure and kinematics of specific cases were studied using three meteorological radars installed in São Paulo state and a lightning detection network, with tools such as tracking of convective systems, hydrometeor identification and Multi-Doppler 3D wind retrieval. The analyzed cases had low hailfall intensity when compared with scales applied in Europe, with 22.4mm maximum hail diameter. The 2017-03-14 case presented the longest lifetime (6.2h), hailfall in two locations (11.8mm maximum hail diameter) and the most intense lightning activity (107 (31) flashes/min IC (CG) maximum rate), while the 2017-11-15 case, with a shorter lifetime (2.2h), presented low electrical activity (46 (20) flashes IC (CG) total) with the most intense hailfall (22.4mm maximum hail diameter). All hailfall cases of the specific cases mentioned earlier are associated with a extensive hail column identified by the polarimetric radar and up to 30m/s updrafts before the events; the bigger hail in the 2017-11-15 case possibly had the contribution of liquid precipitation (associated with larger downdrafts) which prevents hail size decrease as well as contributes to its growth below the cloud base. Some key factors found in both cases were the increase in electrical activity before or after hailfall, the presence of hail in a extensive layer within cloud and the updrafts within mixed phase layer contributing to hail formation and growth."
+abstract: "Esta dissertação analisou tempestades que produziram granizo na Região Metropolitana de Campinas com o objetivo de identificar fatores determinantes para a produção e precipitação de granizo. De forma inédita, uma rede de detecção de granizo instalada na região permitiu a identificação e determinação das intensidades das tempestades entre 2016 e 2017. O ciclo de vida, estrutura microfísica e cinemática de casos específicos foram estudados usando três radares meteorológicos instalados no estado de São Paulo e uma rede de detecção de raios, usando ferramentas como rastreamento de sistemas convectivos, identificação de hidrometeoros e recuperação de vento tridimensional por Multi-Doppler. Comparando com escalas de intensidade de granizo aplicadas ao continente europeu, os casos analisados apresentaram intensidade baixa, com granizo de no máximo 22,4 mm de diâmetro. O caso de 2017-03-14 apresentou o tempo de vida mais longo (6,2 h), queda de granizo em duas localidades (com diâmetro máximo de 11,8 mm) e atividade elétrica mais intensa (taxa máxima de 107 (31) flashes/min IC (CG)), enquanto que o caso de 2017-11-15, com tempo de vida mais curto (2,2 h), apresentou baixa atividade elétrica (total de 46 (20) flashes IC (CG)) porém com queda de granizo mais intensa (com diâmetro máximo de 22,4 mm). Todas as quedas de granizo dos casos específicos citados anteriormente estão associadas a uma extensa coluna de granizo identificada pelo radar polarimétrico e correntes ascendentes de até 30 m/s antes do evento; o granizo maior no caso de 2017-11-15 possivelmente tem contribuição da precipitação na forma líquida (associada à correntes descendentes mais intensas) que previne a diminuição de tamanho do granizo ao mesmo tempo que contribui para o seu crescimento mesmo abaixo da base da nuvem. Alguns fatores determinantes encontrados em ambos os casos foram o aumento da atividade elétrica antes ou depois da queda de granizo, a presença de granizo em uma camada extensa dentro da nuvem e a atuação da corrente ascendente dentro da região de fase mista contribuindo para a formação e crescimento do granizo."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Research", "Masters"]
-categories: ["Publications"]
+tags: ["Pesquisa", "Mestrado"]
+categories: ["Publicações"]
 featured: false
 
 # Custom links (optional).
@@ -42,14 +42,14 @@ url_dataset:
 url_poster:
 url_project:
 url_slides: https://docs.google.com/presentation/d/e/2PACX-1vR2ki0aLgXLCRhInxbiEVr0Xgoe2FiI3fWyHg2CSnJp_zOA1SKPiG3TsfOJEw4ZAIfTO4yU-1gfr32J/pub?start=false&loop=false&delayms=3000
-url_source: http://www.teses.usp.br/teses/disponiveis/14/14133/tde-06052019-155657/en.php
+url_source: https://teses.usp.br/teses/disponiveis/14/14133/tde-06052019-155657/pt-br.php
 url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "IAG-USP Logo"
+  caption: "Logo do IAG-USP"
   focal_point: "Smart"
   preview_only: false
 

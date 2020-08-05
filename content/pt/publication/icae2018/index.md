@@ -24,8 +24,8 @@ abstract: "Two hailstorms that occurred in March 2017 and November 2017 were ana
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Research", "Masters", "Conference Presentation"]
-categories: ["Publications"]
+tags: ["Pesquisa", "Mestrado", "Apresentação em Conferência"]
+categories: ["Publicações"]
 featured: false
 
 # Custom links (optional).
@@ -49,7 +49,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "ICAE Logo"
+  caption: "Logo do ICAE"
   focal_point: "Smart"
   preview_only: false
 

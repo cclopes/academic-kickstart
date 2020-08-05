@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2019-11-11T15:19:34-03:00
 
 authors: ["Lopes, C. C., Albrecht, R. I."]
-tags: ["Research", "Masters", "SOS-CHUVA"]
+tags: ["Pesquisa", "Mestrado", "SOS-CHUVA"]
 
 # Is this a featured talk? (true/false)
 featured: false

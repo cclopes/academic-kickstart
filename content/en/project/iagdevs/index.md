@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-The [IAG Devs](https://github.com/iagdevs) research group with IAG graduate students and professors develops educational material in Portuguese for other studens. Check out our [Introduction to R Course](https://github.com/iagdevs/cursoR).
+The [IAG Devs](https://github.com/iagdevs) research group with IAG graduate students and professors develops educational material in Portuguese for other students. Check out our [Introduction to R Course](https://github.com/iagdevs/cursoR).
