@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Double-rainbow just above the storage container."
+  caption: "Campina site with installed instruments in August 2020."
   focal_point: "smart"
   preview_only: false
 

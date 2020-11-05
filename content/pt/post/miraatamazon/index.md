@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Arco-íris duplo logo acima do container de armazenamento."
+  caption: "Site Campina com instrumentos instalados em agosto de 2020."
   focal_point: "smart"
   preview_only: false
 
@@ -32,7 +32,7 @@ Tive a incrível oportunidade de escrever (de forma bem informal) sobre a Campin
 
 Leia o texto original (em inglês) [aqui](https://www.attoproject.org/cloud-radar-measuring-from-a-hole-in-the-forest/). Abaixo, traduzi o texto para português.
 
-"Olá! Meu nome é Camila Lopes. Sou uma meteorologista trabalhando no Projeto ATTO desde 2020. Esse trabalho é parte do meu doutorado na Universidade de São Paulo, Brasil, sob orientação da Profª Rachel Albrecht. **Estou envolvida em um projeto qu estuda o ciclo de vida de nuvens e aerossóis na Amazônia** medindo sues propriedades em diversos locais. Um deles inclui a Torre ATTO e um novo site montado a cerca de 4 km da torre. Esse site se chama "Campina". O solo arenoso e as árvores baixas comparadas com seu entorno deram o nome ao site. Visto de cima, essa região é como um buraco de solo nu no meio de uma floresta densa e infinita. Isso também faz com que seja uma região ideal para a coleta de medidas meteorológicas olhando acima das árvores.  
+"Olá! Meu nome é Camila Lopes. Sou uma meteorologista trabalhando no Projeto ATTO desde 2020. Esse trabalho é parte do meu doutorado na Universidade de São Paulo, Brasil, sob orientação da Profª Rachel Albrecht. **Estou envolvida em um projeto qu estuda o ciclo de vida de nuvens e aerossóis na Amazônia** medindo suas propriedades em diversos locais. Um deles inclui a Torre ATTO e um novo site montado a cerca de 4 km da torre. Esse site se chama "Campina". O solo arenoso e as árvores baixas comparadas com seu entorno deram o nome ao site. Visto de cima, essa região é como um buraco de solo nu no meio de uma floresta densa e infinita. Isso também faz com que seja uma região ideal para a coleta de medidas meteorológicas olhando acima das árvores.  
 
 {{< figure src="https://www.attoproject.org/wp-content/uploads/2020/08/535186_1001915869882950_7027683788725921496_n.jpg" title="Campina com solos arenonos e pequenas árvores e arbustos." height=1 numbered="false" lightbox="true" >}}
 
@@ -49,3 +49,5 @@ O instrumento em si é basicamente uma antena montada acima de um pequeno contai
 {{< figure src="https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_1024/https://www.attoproject.org/wp-content/uploads/2020/11/fig4-1024x683.png" title="Visão dentro do container com um ar-condicionado extremamente necessário :), ferramentas e vários notebooks que controlam todos os instrumentos no site. Na direita, estou eu muito concentrada coletando informações sobre as configurações depois da instalação." height=1 numbered="false" lightbox="true" >}}
 
 Eu sou nascida e criada na selva de pedra de São Paulo e uma pessoa 100% de cidade grande. Assim, para mim foi uma grande experiência passar dez dias no meio da floresta ouvindo pássados e insetos em vez de carros e sirenes. Apesar do calor e da umidade me fazendo suar eternamente e acabando com o meu cabelo, eu na verdade gostei da experiência. Provavelmente porque eu não tive a "experiência completa". Não encontrei cobras ou aranhas gigantes, não passei o dia inteiro longe de um ar-condicionado e não subi a torre de 325 m. Tenho tanto medo de altura que ir até a base da torre e olhar para cima foi uma aventura suficiente para mim. Mas, quem sabe... Talvez na próxima vez eu encontre a coragem para subir. :smile:"
+
+{{< figure src="https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_1024/https://www.attoproject.org/wp-content/uploads/2020/11/fig2-1024x768.jpg" title="Arco-íris duplo logo acima do container de armazenamento no único dia 'chuvoso' (na verdade foi só um pouco de chuvisco) quando estávamos trabalhando no site." height=1 numbered="false" lightbox="true" >}}
