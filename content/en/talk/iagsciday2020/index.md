@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deep Convection Invigoration in Amazonia: Observations and Comparison with Satellite Estimates"
-event: "IV IAG Science Day"
+title: "Deep Convection Invigoration in Amazônia"
+event: "V IAG Science Day"
 event_url: https://www.iag.usp.br/scienceday
 location: "IAG-USP, São Paulo, Brasil"
 summary: ""
@@ -10,12 +10,12 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-10-22T16:45:00-03:00
-date_end: 2019-10-22T16:50:00-03:00
+date: 2020-11-23T10:00:00-03:00
+date_end: 2020-11-27T16:00:00-03:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-06-04T11:47:45-03:00
+publishDate: 2020-11-04T20:00:00-03:00
 
 authors: ["Lopes, C. C., Albrecht, R. I."]
 tags: ["Research", "PhD"]
@@ -40,7 +40,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "https://docs.google.com/presentation/d/1FiOUzpa3GtElbR6EKwyPWDw4j1aom7JH_MrkQxtCEws/edit?usp=sharing"
+url_slides: "https://docs.google.com/presentation/d/1dhbbyZ0_x6ThYDzm7lK-K_W4wpsRPatVUWQdFuRJCrM/edit?usp=sharing"
 
 url_code:
 url_pdf:
