@@ -1,24 +1,24 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deep Convection Invigoration in Amazônia"
-event: "V IAG Science Day"
-event_url: https://www.iag.usp.br/scienceday
-location: "IAG-USP, São Paulo, Brasil"
+title: "Thunderstorms with M.Sc. Camila Lopes"
+event: "Live with Adriana Lippi"
+event_url: https://www.youtube.com/watch?v=ubeJz_6KOTM&t=2s
+location: "Youtube"
 summary: ""
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-24T10:00:00-03:00
-date_end: 2020-11-24T11:00:00-03:00
+date: 2020-11-18T19:00:00-03:00
+date_end: 2020-11-18T20:00:00-03:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-11-04T20:00:00-03:00
+publishDate: 2020-11-12T20:00:00-03:00
 
-authors: ["Lopes, C. C., Albrecht, R. I."]
-tags: ["Research", "PhD"]
+authors: ["Lopes, C. C."]
+tags: ["Outreach"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -27,7 +27,7 @@ featured: true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Science Day Poster"
+  caption: "Live Poster"
   focal_point: "Smart"
   preview_only: false
 
@@ -40,11 +40,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "https://docs.google.com/presentation/d/1dhbbyZ0_x6ThYDzm7lK-K_W4wpsRPatVUWQdFuRJCrM/edit?usp=sharing"
+url_slides: "https://docs.google.com/presentation/d/1K_JO6tvGZLkU8Ce2FucDyiVmShTuQD630sfysKDi7sU/edit?usp=sharing"
 
 url_code:
 url_pdf:
-url_video: "https://youtu.be/KkxqWfWB9-o"
+url_video: "https://www.youtube.com/watch?v=ubeJz_6KOTM&t=2s"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,5 +58,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["aerosolscloudslifecycle"]
+projects: []
 ---

@@ -10,8 +10,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-23T10:00:00-03:00
-date_end: 2020-11-27T16:00:00-03:00
+date: 2020-11-24T10:00:00-03:00
+date_end: 2020-11-24T11:00:00-03:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -24,7 +24,7 @@ tags: ["Pesquisa", "Doutorado"]
 featured: true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "Poster do Science Day"
@@ -44,7 +44,7 @@ url_slides: "https://docs.google.com/presentation/d/1dhbbyZ0_x6ThYDzm7lK-K_W4wps
 
 url_code:
 url_pdf:
-url_video:
+url_video: "https://youtu.be/KkxqWfWB9-o"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
