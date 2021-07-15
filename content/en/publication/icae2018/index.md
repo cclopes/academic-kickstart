@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "/publication/icae2018/FullPaper_ICAE2018_CamilaLopes.pdf"
+url_pdf: "en/publication/icae2018/FullPaper_ICAE2018_CamilaLopes.pdf"
 url_code:
 url_dataset:
 url_poster: "Poster_CamilaLopes_ICAE2018.pdf"

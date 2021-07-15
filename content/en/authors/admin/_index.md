@@ -76,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Camila da Cunha Lopes and I'm a PhD candidate at the University of São Paulo. My research interests are thunderstorms formation and life cycle in Brazil, which includes cloud microphysics, electification and remote sensing of the atmosphere. Some specific topics I study are: storm tracking with weather radars, hailfall features with hailpad data, 3D wind retrieval using Dual and Multi-Doppler, etc.
+My name is Camila da Cunha Lopes and I'm a PhD candidate at the University of São Paulo. My research interests are thunderstorms formation and life cycle in Brazil, which includes cloud microphysics, electification and remote sensing of the atmosphere. Some specific topics I study are: storm tracking with weather radars, hailfall features with hailpad data, 3D wind retrieval using Dual and Multi-Doppler, etc. I'm currently working at the [Laboratório de Física das Nuvens (Cloud Physics Laboratory - LabNuvens)](http://labnuvens.iag.usp.br/), coordinated by my advisor Dr. Rachel Albrecht.
 
 For my research, I use R and Python programming languages, using several packages for data analysis and visualization, as well as packages developed for meteorological data such as [MetPy](https://unidata.github.io/MetPy/latest/index.html) and [Py-ART](https://arm-doe.github.io/pyart/). For example, the [soschuva_hail repository](https://github.com/cclopes/soschuva_hail) contains the scripts I developed for my Masters dissertation, using radar, lightning, hailpad, reanalysis and satellite data.
